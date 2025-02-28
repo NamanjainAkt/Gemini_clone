@@ -1,3 +1,5 @@
+<a href="https://gemini-nj.netlify.app">Try out me!</a>
+
 # Gemini Clone
 
 A modern React application that replicates the functionality and UI of Google's Gemini AI assistant. This project provides a clean, responsive interface for interacting with the Gemini API.
